@@ -1,7 +1,9 @@
 <h1 align="center"> Привет, я Светлана! 👋</h1>
 <h3 align="center"> :woman_technologist: Frontend-developer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<h6><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></h6>
+
+
 <!--
 **Svetlana177/Svetlana177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,18 +59,38 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/65166970/204084679-72f55863-9313-4a5a-a64b-e61cfb253b79.svg" height="40px"/>
 </td>
 </tr>
+
+  <tr>
+<td align="center">
+<h6>Профиль на Codewars:</h6>
+</td>
+<td>
+<a href="https://www.codewars.com/users/rsschool_9fed11c7eb5e8b08" title="Открыть профиль на Codewars">
+<img src="https://www.codewars.com/users/rsschool_9fed11c7eb5e8b08/badges/small" height="25px"/>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<h6>Профиль на HTML Academy:</h6>
+</td>
+<td>
+<a href="https://htmlacademy.ru/profile/svetlana_r" title="Открыть профиль на HTML Academy">Открыть профиль на HTML Academy</a>
+</td>
+</tr>
 </tbody>
 </table>
 
 <br>
-<p> Мой профиль на Codewars: </p>
-<a href="https://www.codewars.com/users/Paavveel" title="Открыть профиль на Codewars">
-<img src="https://www.codewars.com/users/rsschool_9fed11c7eb5e8b08/badges/small" height="25px"/>
-</a>
+<p>  </p>
+
+
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Svetlana177&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### Most Used Languages :
+### 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svetlana177&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
