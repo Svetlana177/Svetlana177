@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <h6>Профиль на Codewars:</h6>
 </td>
 <td>
-<a href="https://www.codewars.com/users/rsschool_9fed11c7eb5e8b08" title="Открыть профиль на Codewars">
+<a target="_blank" href="https://www.codewars.com/users/rsschool_9fed11c7eb5e8b08" title="Открыть профиль на Codewars">
 <img src="https://www.codewars.com/users/rsschool_9fed11c7eb5e8b08/badges/small" height="25px"/>
 </a>
 </td>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <h6>Профиль на HTML Academy:</h6>
 </td>
 <td>
-<a href="https://htmlacademy.ru/profile/svetlana_r" title="Открыть профиль на HTML Academy">Открыть профиль на HTML Academy</a>
+<a target="_blank" href="https://htmlacademy.ru/profile/svetlana_r" title="Открыть профиль на HTML Academy">Открыть профиль на HTML Academy</a>
 </td>
 </tr>
 </tbody>
