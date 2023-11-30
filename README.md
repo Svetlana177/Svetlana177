@@ -1,6 +1,10 @@
 <h1 align="center"> Привет, я Светлана! 👋</h1>
 <h3 align="center"> :woman_technologist: Frontend-developer</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif" width="200" height="auto"/>
+</div>
+
 <h6><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></h6>
 
 
